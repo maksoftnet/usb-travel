@@ -1,0 +1,115 @@
+Version 1.5.5 - 30 August 23
+    - Updated icon sets
+Version 1.5.4 - 4 May 23
+    - Added tag criteria to Tour List
+Version 1.5.3 - 31 March 23
+    - Fixed WP 6.2 issue
+Version 1.5.2 - 22 February 23
+    - Minor bug fixes
+Version 1.5.1 - 15 February 23
+    - Improved WooCommerce compatibility
+Version 1.5.0 - 25 November 22
+    - Minor bug fixes
+Version 1.4.9 - 21 November 22
+    - Improved WooCommerce compatibility
+Version 1.4.8 - 2 September 22
+    - Import plugin update
+Version 1.4.7 - 17 March 22
+    - Minor bug fixes
+Version 1.4.6 - 29 January 22
+    - Added new Google Fonts
+Version 1.4.5 - 22 January 22
+    - Improved Bold Builder compatibility
+Version 1.4.4 - 28 December 21
+    - Fixed YT video player
+Version 1.4.3 - 8 December 21
+    - Improved Bold Builder compatibility
+Version 1.4.2 - 30 September 21
+    - Fixed tour preview
+Version 1.4.1 - 14 June 21
+    - Minor bug fixes
+Version 1.4.0 - 24 April 21
+    - Improved WooCommerce compatibility
+Version 1.3.9 - 2 April 21
+    - Minor bug fixes
+Version 1.3.8 - 1 April 21
+    - Added support for Lightweight Sidebar Manager plugin
+Version 1.3.7 - 24 March 21
+    - Improved security
+Version 1.3.6 - 6 March 21
+    - Minor bug fixes
+Version 1.3.5 - 5 March 21
+    - Minor bug fixes
+Version 1.3.4 - 1 March 21
+    - Fixed Portfolio filtering
+Version 1.3.3 - 22 December 20
+    - Improved demo import
+Version 1.3.2 - 28 July 20
+    - Fixed tour excerpt
+    - Fixed similar tours options
+Version 1.3.1 - 19 March 20
+    - Fixed translation
+Version 1.3.0 - 6 March 20
+    - Demo content update
+Version 1.2.9 - 5 March 20
+    - Added WhatsApp sharing
+Version 1.2.8 - 3 March 20
+    - Fixed tab styling
+Version 1.2.7 - 19 February 20
+    - Minor bug fixes
+Version 1.2.6 - 8 February 20
+    - Minor bug fixes
+Version 1.2.5 - 7 February 20
+    - Fixed booking popup scrolling
+Version 1.2.4 - 23 January 20
+    - Minor bug fixes
+Version 1.2.3 - 27 December 19
+    - Fixed Google Maps
+Version 1.2.2 - 18 December 19
+    - Added Bold Timeline plugin
+Version 1.2.1 - 26 November 19
+    - Fixed Google Maps custom style
+Version 1.2.0 - 24 October 19
+    - Minor bug fixes
+Version 1.1.9 - 25 August 19
+    - Improved security
+Version 1.1.8 - 16 July 19
+    - Minor bug fixes
+Version 1.1.7 - 4 July 19
+    - Minor bug fixes
+Version 1.1.6 - 20 June 19
+    - Minor bug fixes
+Version 1.1.5 - 1 June 19
+    - Fixed Override Global Settings
+Version 1.1.4 - 30 May 19
+    - Minor bug fixes
+Version 1.1.3 - 28 May 19
+    - Fixed tabs order
+Version 1.1.2 - 27 May 19
+    - Added tabs customizing options
+    - Minor bug fixes
+Version 1.1.1 - 11 April 19
+    - Fixed Google Maps
+Version 1.1.0 - 8 April 19
+    - Minor bug fixes
+Version 1.0.9 - 27 February 19
+    - Option to open search tour result in new or same tab
+    - Other minor updates and bugfixes
+Version 1.0.8 - 1 February 19
+    - Added option to change tour category slug
+    - Added option to change tour destination slug
+Version 1.0.7 - 23 January 19
+    - Improved CF7 compatibility
+    - Demo content update
+Version 1.0.6 - 22 January 19
+    - Fixed PHP error
+Version 1.0.5 - 21 January 19
+    - Added booking link option
+Version 1.0.4 - 15 January 19
+    - Travelicous plugin .pot file update
+Version 1.0.3 - 21 November 18
+    - Fixed some minor bugs
+Version 1.0.2 - 15 November 18
+    - Fixed travelicious plugin version
+Version 1.0.1 - 15 November 18
+    - Improved AMP support
